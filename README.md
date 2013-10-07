@@ -1,4 +1,4 @@
-bootstrap-dropdown-hover
+bootstrap dropdown hover
 ========================
 
 Bootstrap Dropdown on Mouse Hover
